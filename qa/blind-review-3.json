@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and pupil alignment turn right; B face and gaze angle left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-left",
+      "reason": "A has a clear leftward nose and eye line; B also shows slightly left-shifted nose and pupils."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and iris sit toward screen-left; B nose and gaze sit toward screen-right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A face profile and eye line point left; B muzzle and pupils point right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and eyes turn left; B nose and pupils turn right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-left",
+      "reason": "Both lowered faces have nose and iris alignment shifted toward screen-left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-left",
+      "reason": "Both lowered gazes and nose axes angle toward screen-left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A pupils and nose/gaze lift upward; B pupils look down beneath the fringe."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A has distinctly lowered pupils; B pupils and gaze lift upward."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A looks down with lowered pupils; B pupils are raised and face gaze is upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A iris position and nose axis indicate an upward gaze; B gaze is lowered."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes are lowered; B nose and visible pupils angle upward."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A pupils point down; B eyes and nose/gaze axis point upward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A pupils and face gaze turn upward; B pupils are lowered."
+    }
+  ]
+}

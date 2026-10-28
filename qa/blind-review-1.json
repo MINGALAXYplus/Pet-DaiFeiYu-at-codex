@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"right","B":"left","reason":"A's irises sit image-right; B's pupils and nose point image-left."},
+    {"pair":"horizontal-2","A":"left","B":"right","reason":"A's iris is shifted image-left and nose points left; B's irises and nose point right."},
+    {"pair":"horizontal-3","A":"left","B":"right","reason":"A looks image-left, with the pupil near the left eye edge; B's iris and nose are image-right."},
+    {"pair":"horizontal-4","A":"left","B":"right","reason":"A's visible iris sits toward image-left; B's pupils are toward image-right and nose points right."},
+    {"pair":"horizontal-5","A":"left","B":"right","reason":"A's iris is clearly displaced image-left; B's pupil and nose are directed image-right."},
+    {"pair":"horizontal-6","A":"ambiguous","B":"ambiguous","reason":"Both have lowered/narrowed eyes and the irises are partly covered; the visible nose cues do not establish a reliable left-right gaze."},
+    {"pair":"horizontal-7","A":"ambiguous","B":"left","reason":"A's lowered eyes obscure iris position, leaving no decisive horizontal cue. B's visible pupils and nose angle image-left."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A's pupils are high in the eye openings with lower white visible; B's pupils sit low beneath lowered upper lids."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's eyes are lowered and pupils sit low; B's irises are high with more lower eye white visible."},
+    {"pair":"vertical-3","A":"ambiguous","B":"up","reason":"A's iris height is near center and not clearly vertical. B's pupils are visibly high in the eyes."},
+    {"pair":"vertical-4","A":"ambiguous","B":"ambiguous","reason":"Both irises are near mid-height; no clear up/down displacement from the lids is visible."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A's pupils sit low under the upper lids; B's irises are high in the openings with lower eye white showing."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A's pupils are low beneath the fringe; B's irises are high relative to the eye openings."},
+    {"pair":"vertical-7","A":"up","B":"ambiguous","reason":"A's pupils are high with lower eye white visible. B's sideward gaze and partly obscured iris leave vertical direction unclear."}
+  ]
+}

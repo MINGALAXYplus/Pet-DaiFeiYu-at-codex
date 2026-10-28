@@ -1,0 +1,51 @@
+{
+  "target_height": 150,
+  "target_bottom": 202,
+  "rows": [
+    {
+      "state": "failed",
+      "scale": 0.7772020725388601,
+      "baseline_before": 201
+    },
+    {
+      "state": "idle",
+      "scale": 0.7653061224489796,
+      "baseline_before": 202
+    },
+    {
+      "state": "jumping",
+      "scale": 1.0,
+      "baseline_before": 202
+    },
+    {
+      "state": "review",
+      "scale": 0.7653061224489796,
+      "baseline_before": 202
+    },
+    {
+      "state": "running",
+      "scale": 0.7653061224489796,
+      "baseline_before": 202
+    },
+    {
+      "state": "running-left",
+      "scale": 0.7772020725388601,
+      "baseline_before": 202
+    },
+    {
+      "state": "running-right",
+      "scale": 0.7978723404255319,
+      "baseline_before": 202
+    },
+    {
+      "state": "waiting",
+      "scale": 0.7731958762886598,
+      "baseline_before": 201
+    },
+    {
+      "state": "waving",
+      "scale": 0.7653061224489796,
+      "baseline_before": 202
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "atlas": "/Users/ming/Documents/Codex/2026-10-28/pets-plugin-work-pets-openai-curated/outputs/xiaojing-maid-20261028/final/spritesheet-extended.png",
+  "encoded_bytes": 2598715,
+  "sha256": "ed44a2d5b9484dd91c050ef1b819b684c3a3fbc911406fbf56ca0b9093757314",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      182,
+      165,
+      184,
+      202
+    ],
+    "airborne_lift_pixels": 37,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.5,
+    "look_centers_x": [
+      97.0,
+      95.5,
+      96.0,
+      95.5,
+      95.0,
+      95.5,
+      95.5,
+      95.5,
+      97.5,
+      98.5,
+      101.5,
+      100.5,
+      100.5,
+      100.5,
+      100.5,
+      100.0
+    ],
+    "look_widths": [
+      114,
+      109,
+      108,
+      107,
+      106,
+      107,
+      107,
+      109,
+      113,
+      103,
+      105,
+      103,
+      105,
+      107,
+      107,
+      108
+    ],
+    "maximum_center_drift_pixels": 5.0,
+    "maximum_width_ratio": 1.1067961165048543
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "337.5->000 diff is a local outlier (2285 pixels vs neighbor average 1192)"
+  ]
+}
