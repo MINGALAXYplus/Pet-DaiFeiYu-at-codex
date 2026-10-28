@@ -1,0 +1,12 @@
+{
+  "id": "pet_6ae1b673e424819184434fe9554e5b63",
+  "name": "小鲸女仆",
+  "description": "蓝发蓝眸的小鲸女仆，安静聪明、认真体贴，思考时专注，遇到错误会小沮丧又继续努力。",
+  "is_custom": true,
+  "is_active": true,
+  "verified_by": "select_pet plus complete list_pets pagination",
+  "spritesheet": "final/spritesheet-extended.png",
+  "sha256": "ed44a2d5b9484dd91c050ef1b819b684c3a3fbc911406fbf56ca0b9093757314",
+  "creation_date": "2026-10-28",
+  "sprite_version": 2
+}
